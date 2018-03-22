@@ -14,3 +14,11 @@ In this exercise, we will use [Cloudinary](https://www.cloudinary.com), a cloud 
 
 index.html is a pretend "summer vacation blog post" with 15 images. The images were just uploaded straight from Google Photos, and as a result, the page weighs over 10 MB. The first load of the page \(when the images are not cached\) is extremely slow.[Try it!](https://dougsillars.github.io/)\(See what I mean?\)
 
+## Contest
+
+### At RenderConf, Cloudinary is sponsoring a contest.  [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdYhsJWpZGrzrg76MmSzkKxSlyfvblDX9_SmaKi7Q39R0FLTw/viewform) your improved sites for a chance to win a £150 Amazon gift certificate!
+
+## 
+
+
+
