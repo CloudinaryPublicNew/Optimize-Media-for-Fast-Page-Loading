@@ -1,3 +1,7 @@
+## Format
+
+
+
 There are formats that have better compression algorithms than others. JPEG and PNG are older formats, and formats like Webp or JPEG2000 use newer compression algorithms that save even more data without any loss of quality. Since WebSite Speed Test and WebPageTest use desktop Chrome by default, we try to use Webp on our site during testing.
 
 Rather than creating new images in each format and comparing them, we can again leverage the Cloudinary toolchain, and add the "f\_auto" parameter to the url - and Cloudinary will pick the best format \(based on compatibility, size and quality\) to deliver to the device.

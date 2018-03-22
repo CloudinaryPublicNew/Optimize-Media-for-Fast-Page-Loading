@@ -1,3 +1,7 @@
+# Lazy Loading
+
+
+
 "The fastest code is the code that never runs" "the fastest request is the request never made"
 
 When it comes to loading a webpage - the fewer the number of requests, the faster the page will load. So, how can we reduce the number of requests. There are a number of libraries that help you lazy load images.
@@ -12,6 +16,5 @@ This is essentially the 'Holy Grail' of image optimization - we can only load th
 
 # 
 
-  
 
 
