@@ -8,5 +8,5 @@
 * Responsive Images
 * Preview Images
 * Lazy Loading
-* Contest!
+* [Contest!](contest.md)
 
