@@ -22,4 +22,4 @@ So, what steps can we take to make this page faster?  As I discussed in my Lunch
 >If you need to host this page, you can use GitHub Pages.  
 1. Visit pages.github.com
 2. set up a repository named &ltgithub username&gt.github.io
-3. once this is created, you are given the option to import from another repository.  Enter:"https://github.com/dougsillars/dougsillars.github.io", and you've essentially cloned this repository into your own GitHub Pages repository.
+3. once this is created, you are given the option to import from another repository.  Enter:"https://github.com/dougsillars/dougsillars.github.io", and you've essentially forked this repository into your own GitHub Pages repository.
