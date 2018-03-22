@@ -6,15 +6,13 @@ You can adjust quality of images with any image processing tool. However, to sim
 
 Here is the full quality image:
 
-&lt;img width = "50%" src="[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg"\(http://res.cloudinary.com/hackchallenge/image/upload/w\_2500/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg"&gt\)&gt](http://res.cloudinary.com/hackchallenge/image/upload/w_2500/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg"]%28http://res.cloudinary.com/hackchallenge/image/upload/w_2500/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg"&gt%29&gt);
+![](/assets/IMG_20160526_135242148_HDR %281%29.jpg)[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg](http://res.cloudinary.com/hackchallenge/image/upload/w_2500/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg)
 
-[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg](http://res.cloudinary.com/hackchallenge/image/upload/w_2500/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg)
-
-and here is the image at quality = 50:
-
-&lt;img width = "50%" src="\[[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500,q\_50/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg"&gt;\]\(http://res.cloudinary.com/hackchallenge/image/upload/w\_2500,q\_50/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg"&gt](http://res.cloudinary.com/hackchallenge/image/upload/w_2500,q_50/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg">]%28http://res.cloudinary.com/hackchallenge/image/upload/w_2500,q_50/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg"&gt)\)
-
-[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500,q\_50/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg](http://res.cloudinary.com/hackchallenge/image/upload/w_2500,q_50/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg)
+and here is the image at quality = 50:![](/assets/IMG_20160526_135242148_HDR.jpg)[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500,q\_50/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg](http://res.cloudinary.com/hackchallenge/image/upload/w_2500,q_50/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg)
 
 If you look at the 2 URLs carefully, there is one small change made to the 2nd.  By simply adding the 'q\_50' parameter, Cloudinary generates an image at quality 50.  You can manually tweak the quality for each image by modifying this value.  However, manually tweaking the image quality for lots of images is not scalable.  Luckily, tools like SSIM allow algorithms to find the perfect balance between pixel savings and image quality.  Cloudinary uses a version of SSIM when the 'q\_auto' parameter is used.
+
+
+
+![](/assets/IMG_20160526_135242148_HDR %282%29.jpg)[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500,q\_auto/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg](https://www.gitbook.com/book/cloudinary/optimize-media-for-fast-page-loading/edit#)
 
