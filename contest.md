@@ -10,9 +10,9 @@ To run the required tests, your site must be hosted and accessible from the inte
 
 1. Visit pages.github.com
 
-2. set up a repository named .github.io
+2. Set up a repository named .github.io
 
-3. once this is created, you are given the option to import from another repository. Enter:"[https://github.com/dougsillars/dougsillars.github.io](https://github.com/dougsillars/dougsillars.github.io)", and you've essentially cloned this repository into your own GitHub Pages repository.
+3. Once this is created, you are given the option to import from another repository. Enter:"[https://github.com/dougsillars/dougsillars.github.io](https://github.com/dougsillars/dougsillars.github.io)", and you've essentially cloned this repository into your own GitHub Pages repository.
 
 
 
