@@ -6,13 +6,13 @@ You can adjust quality of images with any image processing tool. However, to sim
 
 Here is the full quality image:
 
-&lt;img width = "50%" src="[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg"](http://res.cloudinary.com/hackchallenge/image/upload/w_2500/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg"&gt)&gt;
+&lt;img width = "50%" src="[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg"\(http://res.cloudinary.com/hackchallenge/image/upload/w\_2500/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg"&gt\)&gt](http://res.cloudinary.com/hackchallenge/image/upload/w_2500/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg"]%28http://res.cloudinary.com/hackchallenge/image/upload/w_2500/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg"&gt%29&gt);
 
 [http://res.cloudinary.com/hackchallenge/image/upload/w\_2500/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg](http://res.cloudinary.com/hackchallenge/image/upload/w_2500/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg)
 
 and here is the image at quality = 50:
 
-&lt;img width = "50%" src="[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500,q\_50/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg"&gt;](http://res.cloudinary.com/hackchallenge/image/upload/w_2500,q_50/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg"&gt)
+&lt;img width = "50%" src="\[[http://res.cloudinary.com/hackchallenge/image/upload/w\_2500,q\_50/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg"&gt;\]\(http://res.cloudinary.com/hackchallenge/image/upload/w\_2500,q\_50/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg"&gt](http://res.cloudinary.com/hackchallenge/image/upload/w_2500,q_50/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg">]%28http://res.cloudinary.com/hackchallenge/image/upload/w_2500,q_50/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg"&gt)\)
 
 [http://res.cloudinary.com/hackchallenge/image/upload/w\_2500,q\_50/v1521063280/MyVacation/IMG\_20160526\_135242148\_HDR.jpg](http://res.cloudinary.com/hackchallenge/image/upload/w_2500,q_50/v1521063280/MyVacation/IMG_20160526_135242148_HDR.jpg)
 
