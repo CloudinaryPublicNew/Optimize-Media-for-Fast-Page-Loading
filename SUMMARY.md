@@ -7,6 +7,6 @@
 * [Pixels](pixels.md)
 * [Responsive Images](responsive-images.md)
 * [Preview Images](preview-images.md)
-* Lazy Loading
+* [Lazy Loading](lazy-loading.md)
 * [Contest!](contest.md)
 
