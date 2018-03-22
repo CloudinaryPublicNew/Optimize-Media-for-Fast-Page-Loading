@@ -6,7 +6,7 @@
 * [Image Format](image-format.md)
 * [Pixels](pixels.md)
 * [Responsive Images](responsive-images.md)
-* Preview Images
+* [Preview Images](preview-images.md)
 * Lazy Loading
 * [Contest!](contest.md)
 
