@@ -18,7 +18,7 @@ index.html is a pretend "summer vacation blog post" with 15 images. The images w
 
 ### At RenderConf, Cloudinary is sponsoring a contest.  [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdYhsJWpZGrzrg76MmSzkKxSlyfvblDX9_SmaKi7Q39R0FLTw/viewform) your improved sites for a chance to win a £150 Amazon gift certificate!
 
-## 
+You can find the code to optimize at [https://github.com/dougsillars/dougsillars.github.io](https://github.com/dougsillars/dougsillars.github.io)
 
 
 
