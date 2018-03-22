@@ -5,7 +5,7 @@ We would like to take these images, and modify them to get the page to load fast
 <li>[Website Speed Test](https://webspeedtest.cloudinary.com/) to test the performance of the images on the page.</li>
 <li>[WebPageTest](https://webpagetest.org/) to measure the load time of the page.</li>
 <ul>
->*Success* NOTE: that these two tools are synced, if you run a WebPageTest run, you can access the Website Speed Test results from the "Image Analysis" link at the top of the page.
+> NOTE: that these two tools are synced, if you run a WebPageTest run, you can access the Website Speed Test results from the "Image Analysis" link at the top of the page.
 
 Here are links to the initial results (unoptimized):
 
